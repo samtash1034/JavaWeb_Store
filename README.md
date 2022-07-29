@@ -12,7 +12,7 @@ MySQL
 
 ### 1、登入功能
 * 登入成功則跳轉到首頁
-* 登入失敗跳轉到登入頁面並顯示提示訊息
+* 登入失敗跳轉到登入頁面並顯示錯誤訊息
 
 ![燈](https://user-images.githubusercontent.com/82807965/181730533-a96051b1-954d-40ad-a4f0-d45abeb9cb8a.jpg )
 
@@ -21,7 +21,7 @@ MySQL
 ### 2、註冊功能
 * 注意生日格式不可打錯
 * 註冊成功跳轉到登入頁面
-* 註冊失敗跳轉到註冊頁面並顯示登入訊息
+* 註冊失敗跳轉到註冊頁面並顯示錯誤訊息
 
 ![1659015723650](https://user-images.githubusercontent.com/82807965/181733620-7b3e3652-51c9-417b-af2d-1467408188b0.jpg)
 
@@ -38,7 +38,7 @@ MySQL
 
 ![商品列表](https://user-images.githubusercontent.com/82807965/181735409-a9097284-0766-43ee-82fb-78f1f7a5011f.jpg)
 
-![商品詳細訊息](https://user-images.githubusercontent.com/82807965/181735422-ee9b0fb8-4d19-438a-81b6-1cc850e42470.jpg)
+![商品詳細](https://user-images.githubusercontent.com/82807965/181735711-3cfc3bdc-245d-49ab-9ce8-84abf73bc46c.jpg)
 
 
 
