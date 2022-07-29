@@ -10,4 +10,6 @@ MySQL
 
 # 功能介紹
 
+<img src="https://user-images.githubusercontent.com/82807965/181730533-a96051b1-954d-40ad-a4f0-d45abeb9cb8a.jpg" height="200" width="200");
+
 ![1659015661155](https://user-images.githubusercontent.com/82807965/181730533-a96051b1-954d-40ad-a4f0-d45abeb9cb8a.jpg =200x)
