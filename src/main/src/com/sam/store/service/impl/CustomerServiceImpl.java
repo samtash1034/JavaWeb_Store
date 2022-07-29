@@ -15,7 +15,7 @@ public class CustomerServiceImpl implements CustomerService {
 
         Customer dbCustomer = customerDao.findById(customer.getId());
 
-        if(dbCustomer.getPassword().equals(customer.getPassword())){
+        if(dbCustomer != null && dbCustomer.getPassword().equals(customer.getPassword())){
 
             //登入成功
             customer.setPhone(dbCustomer.getPhone());
