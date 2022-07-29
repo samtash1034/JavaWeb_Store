@@ -32,6 +32,13 @@ MySQL
 
 ![首頁](https://user-images.githubusercontent.com/82807965/181734157-0a5bbc07-d337-47c3-878c-ca2b7a5874e7.jpg)
 
+### 4、將商品加入到購物車
+* 直接點擊商品列表的添加到購物車
+* 進去商品詳細訊息後加入到購物車
+
+![商品列表](https://user-images.githubusercontent.com/82807965/181735409-a9097284-0766-43ee-82fb-78f1f7a5011f.jpg)
+
+![商品詳細訊息](https://user-images.githubusercontent.com/82807965/181735422-ee9b0fb8-4d19-438a-81b6-1cc850e42470.jpg)
 
 
 
