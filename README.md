@@ -1,5 +1,5 @@
 # 簡介
-基於servlet+jsp+mysql做的一個簡易的網上書店項目源碼
+基於servlet+jsp+mysql做的一個簡易的電腦購物商城
 
 # 使用技術
 Jsp
