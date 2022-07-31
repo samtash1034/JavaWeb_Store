@@ -40,6 +40,16 @@ MySQL
 
 ![商品詳細](https://user-images.githubusercontent.com/82807965/181735711-3cfc3bdc-245d-49ab-9ce8-84abf73bc46c.jpg)
 
+### 5、購物車頁面
+* 更改數量金額會跟著改變
+
+![購物車](https://user-images.githubusercontent.com/82807965/182019195-f59edff1-3fe5-4bd0-bf5f-2cbdf19a3d79.jpg)
+
+### 6、訂單完成
+
+![訂單](https://user-images.githubusercontent.com/82807965/182019279-6d1a9bea-a0be-4784-be62-c1e0d229b5fe.jpg)
+
+
 
 
 
