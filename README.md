@@ -1,12 +1,24 @@
 # 簡介
-基於servlet+jsp+mysql做的一個簡易的電腦購物商城
+基於servlet+jsp+mysql做的一個簡易的電腦商品購物商城
 
 # 使用技術
-Jsp
+* Jsp
+* Servlet
+* MySQL
 
-Servlet
+# 快速上手
+### 1、運行環境和所需工具
+* 編譯器：IntelliJ IDEA
+* 數據庫：Mysql 8.0
+* JDK版本：jdk1.8
+* Tomcat版本：Tomcat9.X
 
-MySQL
+### 2、初始化項目
+* 在你的Mysql中，創建一個名稱為 store 的數據庫，並導入 .sql 文件
+* 修改config.properties配置文件，把資料庫登錄名和密碼，改為自己的
+* 把src/main資料夾底下的內容複製到專案底下
+* 配置tomcat
+* 運行
 
 # 功能介紹
 
