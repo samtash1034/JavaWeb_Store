@@ -1,5 +1,5 @@
 # 簡介
-基於servlet+jsp+mysql做的一個簡易的電腦商品購物商城
+基於servlet+jsp+mysql建構一個電腦商城
 
 # 使用技術
 * Jsp
